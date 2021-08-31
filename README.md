@@ -11,3 +11,10 @@ My name is Jake Fellwock and I am a code newbie! Learning to code has been a yea
 
 👽
 [![Build Status](https://img.shields.io/badge/Aliens-!-brightgreen)](https://www.nasa.gov/) 👽
+
+What I am currently learning:
+
+![Build Status](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/)
+![Build Status](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/)
+
+
