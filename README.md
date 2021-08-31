@@ -9,5 +9,5 @@ My name is Jake Fellwock and I am a code newbie! Learning to code has been a yea
 - 📫 How to reach me: jakefellwock@gmail.com
 - ⚡ Fun fact: I enjoy creating my own music!
 
-
-[![Build Status](https://img.shields.io/badge/Aliens-!-brightgreen)](https://www.nasa.gov/)
+👽
+[![Build Status](https://img.shields.io/badge/Aliens-!-brightgreen)](https://www.nasa.gov/) 👽
