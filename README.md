@@ -33,3 +33,5 @@ Also:
 [![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)](https://dogecoin.com/)
 
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakefellwock&theme=chartreuse-dark&fire=DD782E)](https://git.io/streak-stats)
