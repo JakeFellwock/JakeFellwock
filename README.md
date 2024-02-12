@@ -27,21 +27,24 @@ What I am currently learning:
 ![SUBLIME TEXT](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
 
+<hr>
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
 Some of my learning resources:
 
-<a href='' target="_blank"><img alt='okta' src='https://img.shields.io/badge/OKCODERS|BOOTCAMP-100000?style=for-the-badge&logo=okta&logoColor=F5F7F4&labelColor=2C9639&color=000000'/></a>
+<a href='https://okcoders.com/' target="_blank"><img alt='okta' src='https://img.shields.io/badge/OKCODERS|BOOTCAMP-100000?style=for-the-badge&logo=okta&logoColor=F5F7F4&labelColor=2C9639&color=000000'/></a>
 
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/)
 [![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
 
-Also:
+
+<hr>
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
 [![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)](https://dogecoin.com/)
 
