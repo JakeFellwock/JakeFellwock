@@ -3,7 +3,7 @@
 
 My name is Jake Fellwock and I am learning to code! Learning to code has been a years long passion of mine and I am working towards that goal of becoming a professional developer. I am heavily inspired by metal music and outerspace. I wish to someday develop my own software that will be used in space missions or to contact alien life. 
  
-- 📗 I’m currently learning full stack development 
+- 📗 I’m currently enrolled in the 2024 OKCoders Full Stack bootcamp
 - 🤓 Looking to meet people to collaborate and learn with
 - 💬 Ask me anything :) 
 - 📫 How to reach me: jakefellwock@gmail.com
@@ -12,7 +12,7 @@ My name is Jake Fellwock and I am learning to code! Learning to code has been a 
 👽
 [![Build Status](https://img.shields.io/badge/Aliens-!-brightgreen)](https://www.nasa.gov/) 👽
 
-What I am currently learning:
+### What I am currently learning:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/)
@@ -29,9 +29,15 @@ What I am currently learning:
 
 <hr>
 
+### Current Projects:
 
+Creating my own coffee shop website. I am adding features and improving my site as I learn throughout my coding bootcamp. <br>
+Check out my site here! <br>
+https://codecraftcoffeehouse.netlify.app/
 
-Some of my learning resources:
+<hr>
+
+### Some of my learning resources:
 
 <a href='https://okcoders.com/' target="_blank"><img alt='okta' src='https://img.shields.io/badge/OKCODERS|BOOTCAMP-100000?style=for-the-badge&logo=okta&logoColor=F5F7F4&labelColor=2C9639&color=000000'/></a>
 
